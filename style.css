@@ -1,0 +1,79 @@
+
+
+.full-content{
+    background-color: #264653;
+}
+.font-color{
+    color: #E0E0E0;
+}
+.b-color{
+    background-color: #E76F51;
+}
+.text-color{
+    color: #E76F51;
+}
+
+.grayscale{
+    filter: grayscale(100%);
+}
+/* .grayscale{
+    filter: gray; -webkit-filter: grayscale(100%);
+} */
+/* .grayscale:hover{
+    filter: grayscale(0%);
+} */
+
+.Regina-Miles{
+    color: #23A6F0;
+}
+
+/* footer css */
+
+a:hover{text-decoration:underline}
+
+/*---------------------------*/
+
+.fix{overflow:hidden;}
+.aligncenter{display:block;margin:0 auto;}
+.floatleft{float:left}
+.floatright{float:right}
+.container_figure{
+	width:250px;
+	padding:5px;
+	background:#ddd;
+	margin: 0 auto;
+	display: block;
+}
+
+.footer_part h3{color:#fff;font-family: 'Oswald', sans-serif; padding: 5px 15px; border-bottom:2px solid #dff3e1}
+.footer_part ul{margin-left:5px;}
+.footer_part ul li{margin-top:2px;margin-bottom:2px;list-style:none}
+.footer_part a{color:#fff;text-decoration:none;}
+.footer_part h3{color:#99ffcc}
+
+.footer_left{width:300px;margin-right:15px;}
+
+.footer_left ul li{float:left}
+.footer_left ul li img{
+	width: 40px;
+	height: 40px;
+	padding: 1px 12px;
+}
+
+.footer_middle{width:300px;margin-right:15px}
+.footer_middle a{transition: all 1s ease;}
+.footer_middle a:hover{color:#f70101;}
+
+
+.footer_right{width:300px}
+.footer_right ul li{float:left;}
+.footer_right ul li img{
+	width: 40px;
+	height: 40px;
+	padding: 2px 10px;
+}
+.copysec{background:rgb(34, 54, 77);padding:5px;text-align:center}
+
+.stick {
+	position:fixed;
+}
